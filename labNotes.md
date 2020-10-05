@@ -126,4 +126,8 @@ Now, you can work. Remember, that if you make changes in any of the files you sh
 
 I would be happy if you pull request to my git repository. 
 
- Thanks!
+## Creating new branches
+I have more instructions about how to create new branches [here](https://github.com/gonzalezrostani/Assignment-6/tree/dev). 
+
+
+Thanks!
