@@ -58,7 +58,7 @@ Now, we need one step more! We have to push it:
 ```
  git push -u repo master
 ```
-Then you will be asked for your username and password. 
+Then you will be asked for your username and password. It is worth to notice that master is the default name, but if you are pushing other branch for example called "dev" then you should write _ git push -u repo dev_ instead of master. 
 
 ## Contribute with others: clone a repository
 If you want to clon a repository and colaborate, I will provide here some of the steps you should follow. As an example, I will explain how to clone my _Assignment-6_ repository, which is an assignment for my class Scientific Computation for Social Scientists, Instructor [Michael Colaresi](https://github.com/colaresi). 
