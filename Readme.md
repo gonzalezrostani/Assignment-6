@@ -1,5 +1,5 @@
 # Read Me: Dev
-In this branch I changed my Makefile. I aim to create both an html file and a pdf file with pandoc (2 targets).
+In this branch I changed my Makefile. I aim to create both an html file and a pdf file with pandoc (2 targets). If you want to operate the file the instructions are the same as in [labNote](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md). Following, I briefly explain how to create a new branch and connect it with your remote repo.
 
 ## Creating a new branch
 If you want to create a new branch you should type
