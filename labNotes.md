@@ -12,7 +12,7 @@ Hi! This is a labnote that aims to explain how to create a _git repository_ and 
 ## Create a new git repository
 The first step is to create your git repository in the right directory. For doing that we are going to use _git init_, but be careful, you need to first posit yourself in the directory. 
 
-* Go intro your directory, the place were you have the files that you want to share with your co-author. 
+* Go into your directory, the place were you have the files that you want to share with your co-author. 
 * Type _git init_, this command has the function fo setting up a rep
 * Work! Here you should create the files that you need for example a _Readme.md_ file explaining what is the contents of your repository. 
 * Once you have all your files you should type _git add_ and the names of the files that you want to add. For example: _git add Readme.md Myproject.txt_. This command basically “stage” files and directories until the next commit.
