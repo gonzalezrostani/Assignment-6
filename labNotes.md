@@ -13,8 +13,8 @@ Hi! This is a labnote that aims to explain how to create a _git repository_ and 
 The first step is to create your git repository in the right directory. For doing that we are going to use _git init_, but be careful, you need to first posit yourself in the directory. 
 
 * Go into your directory, the place were you have the files that you want to share with your co-author. 
-* Type _git init_, this command has the function fo setting up a rep
-* Work! Here you should create the files that you need for example a _Readme.md_ file explaining what is the contents of your repository. 
+* Type _git init_, this command has the function of setting up a rep
+* Work! Here you should create the files that you need for example a _Readme.md_ file explaining what are the contents of your repository. 
 * Once you have all your files you should type _git add_ and the names of the files that you want to add. For example: _git add Readme.md Myproject.txt_. This command basically “stage” files and directories until the next commit.
 * Then, type _git commit_ by doing this you are telling your computer "I'm done, and ready to commit the changes". By doing this, git will save a "photo"of your repo until that moment and will assign a new _commit id_ to identify the stage.
 * After you commited git will give you the option of providing a brief description of what you are doing. This step is very important to avoid fogetting what you were doing, so write something! Don't be scared once you finish writting your description, in my first attemp I did not know how to escape! If you are using Window Shell you can write _Ctrl + X_ and then _Y_ or _N_ depending if you want to write out. If you are using vim just write _:wq_. Another shorter way is to write:
