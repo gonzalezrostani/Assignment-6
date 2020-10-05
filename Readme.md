@@ -48,4 +48,4 @@ Merge made by the 'recursive' strategy.
  1 file changed, 4 insertions(+), 2 deletions(-)
  ```
 
-  * Then, you can pus _git push_
+   * Then, you can push _git push_
