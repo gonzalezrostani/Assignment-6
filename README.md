@@ -4,7 +4,7 @@ You can find detailed instructions in the file _labNotes_ in the master, or by c
 
 The contents of these assignments are: 
 
-1. Writting your markdown and obtaining html using pandoc
+1. Writting your markdown and obtaining html/pdf using pandoc
 2. How does a makefile work?
 3. Create your own git repository and connect it to a remote repository
 4. Clone a repo
