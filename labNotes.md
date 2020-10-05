@@ -47,7 +47,7 @@ Following, I will continue explaining assuming you have your account ready.
 * Once you completed the mandatory steps such as defining a name you will be able to press the button _Create repository_
 
 ### Pushing your local repository to _GitHub_
-Now, you have a local git repository in your computer, and you also a repository in you GitHub account. The next step is to connect this two things. For dooing this, we are going to use _git remote_ and _push_.  
+Now, you have a local git repository in your computer, and another one your GitHub account. The next step is to connect these two things. For doing this, we are going to use _git remote_ and _push_.  
 
 
 ```
