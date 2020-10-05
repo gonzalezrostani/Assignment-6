@@ -14,7 +14,7 @@
 
 #Here I am creating an HTML file
 Website.html : content.md
-	pandoc content.md -s --mathjax -f markdown+tex_math_dollars -t html  -o Website.html
+	pandoc content.md -s --mathjax -f markdown+tex_math_dollars -t html -o Website.html
 	
 #Here I am putting together everything and also saving as a md file
 content.md : LitReview.txt preamble.txt mytargetApproachTOconclusion.txt
