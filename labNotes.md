@@ -61,7 +61,7 @@ Now, we need one step more! We have to push it:
 ```
 Then you will be asked for your username and password. 
 
-## Contribute with others: clon
+## Contribute with others: clone a repository
 If you want to clon a repository and colaborate, I will provide here some of the steps you should follow. As an example, I will explain how to clone my _Assignment-6_ repository, which is an assignment for my class Scientific Computation for Social Scientists, Instructor [Michael Colaresi](https://github.com/colaresi). 
 
 * Go to the repository on github (for example, [Assignment-6](https://github.com/gonzalezrostani/Assignment-6))
