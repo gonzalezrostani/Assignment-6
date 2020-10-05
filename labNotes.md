@@ -108,7 +108,9 @@ After all these steps you have now a local copy of your version of the repositor
 ```
 git remote add owner git://github.com/owner/call_the_repo_you_are_cloning
 ```
-To check this remote you can write "git remote -v" and you will see a list like this example, where I clonned the repository of the assignment:
+where the owner is the username of the owner of the repo that you are clonning. 
+
+To check this remote you can write "git remote -v" and you will see a list like the following. This example, is about the clone of the repository of the [assignment](https://github.com/colaresi/ScientificComputationAssignment67):
 
 ```
 colaresi        git://github.com/colaresi/ScientificComputationAssignment67 (fetch)
