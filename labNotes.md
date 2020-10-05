@@ -40,10 +40,10 @@ Following, I will continue explaining assuming you have your account ready.
 * Login into your account
 * Create a new repository, here you can click the green button at the top that says _New_ or you can go directly making click [here](https://github.com/new). 
 * Here you should follow the instructions of _GitHub_
- * start by defining a repository name
- * You can also add a description. 
- * You have to decide if your repo is going to be public or private
- * You can also choose to add a README file. This is a file where you can write a long description for your project. This is useful for you, but also to share with other people that can read this file and understand what is inside of the repo. 
+  * start by defining a repository name
+  * You can also add a description. 
+  * You have to decide if your repo is going to be public or private
+  * You can also choose to add a README file. This is a file where you can write a long description for your project. This is useful for you, but also to share with other people that can read this file and understand what is inside of the repo. 
 * Once you completed the mandatory steps such as defining a name you will be able to press the button _Create repository_
 
 ### Pushing your local repository to _GitHub_
