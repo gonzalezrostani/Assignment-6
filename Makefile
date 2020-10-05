@@ -2,7 +2,9 @@
 
 ##########Assignment 6 #################
 # Author: Valentina Gonzalez Rostani
-# Date: October 2, 2020
+# Date: October , 2020
+
+# This Makefile is part of the assignment 7 where I need to create a branch and the output should be a pdf. I couldnt to that, so I am just practicing with the creation of the branch, but I only changed the name of the outcome, I dont have my pdf yet.  
 
 #This files contains the target to create my website
 
@@ -13,8 +15,8 @@
 #      4. converting the md file to html using pandoc
 
 #Here I am creating an HTML file
-Website.html : content.md
-	pandoc content.md -s --mathjax -f markdown+tex_math_dollars -t html -o Website.html
+All.html : content.md
+	pandoc content.md -s --mathjax -f markdown+tex_math_dollars -t html -o All.html
 	
 #Here I am putting together everything and also saving as a md file
 content.md : LitReview.txt preamble.txt mytargetApproachTOconclusion.txt
