@@ -4,10 +4,6 @@ author: "Valentina Gonzalez Rostani"
 date: "4/10/2020"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Beggining with Git
 
 ## Introduction
