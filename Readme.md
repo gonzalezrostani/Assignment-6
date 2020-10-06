@@ -1,12 +1,12 @@
 # Read Me: Dev
-In this branch I changed my Makefile. I aim to create both an html file and a pdf file with pandoc (2 targets). If you want to operate the file the instructions are the same as in [labNote](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md). Following, I briefly explain how to create a new branch and connect it with your remote repo.
+In this branch, I changed my Makefile. I aim to create both an HTML file and a pdf file with pandoc (2 targets). If you want to operate the file, the instructions are the same as in [labNote](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md). Following, I briefly explain how to create a new branch and connect it with your remote repo.
 
 ## Creating a new branch
-If you want to create a new branch you should type
+If you want to create a new branch, you should type
 ```
 git checkout -b dev
 ```
-where _dev_ in this case is the name of the new brach. Then you can use a very similar code to move from one branch to the other. For example, imagine I want to come back to the master then I will type _git checkout master_
+where _dev_, in this case, is the name of the new branch. Then you can use a very similar code to move from one branch to the other. For example, imagine I want to come back to the master then I will type _git checkout master_
 
 To confirm in which branch you are you should type:
 ```
@@ -21,17 +21,17 @@ This will signalize where you are and which are the other branches. The outcome 
   remotes/repodev/master
   remotes/valentina/master
   ```
-  The * symbol shows where you are working. In this example master is another branch in my local repo. Then I also have remotes lines, which are the remotes depo that I have commited. 
+  The * symbol shows where you are working. In this example, the master is another branch in my local repo. Then I also have remotes lines, which are the remotes depo that I have committed. 
   
   ## Connecting the new branch with your _GitHub_
-  This is a relatively similar process as the one I explained in the [labNote](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md), but now you should be carefull because once you remote and push your new branch, then if you continue working in your local repository you will have to add an extra step. 
+  This process is relatively similar to the one I explained in the [labNote](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md). Still, now you should be careful because once your remote and push your new branch, if you continue working in your local repository, you will have to add an extra step. 
   
   To sum: 
   * The first time you push a branch:
     * git remote add repodev https://github.com/gonzalezrostani/Assignment-6
     * git push -u repodev dev
-  * Once you have your branch in the remote, then if you want to change a file from your local repository you should
-    * git pull: this will compare the branches and confirm that there are no conflict between your local repo and the remote. You will see a message like this
+  * Once you have your branch in the remote, then if you want to change a file from the local repository you should
+    * git pull: this will compare the branches and confirm no conflict between your local repo and the remote. You will see a message like this
 
 ```
 remote: Enumerating objects: 85, done.
