@@ -1,4 +1,5 @@
-# Assignments 6 and 7
+# Beginning with Git
+
 This repository contains the inputs and outputs for the weekly assignments 6 and 7 of the course Scientific Computation for Social Scientists, Instructor [Michael Colaresi](https://github.com/colaresi).
 You can find detailed instructions in the file _labNotes_ in the master or click this [link to labNotes](https://github.com/gonzalezrostani/Assignment-6/blob/master/labNotes.md). 
 
